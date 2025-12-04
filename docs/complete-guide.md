@@ -1,6 +1,5 @@
 # 🚗 ARS (Auto Repair Services) - Complete Development Guide
 
-> **Competition Goal:** Win 100,000 PHP | **Timeline:** 6 months | **Architecture:** Single Flutter App + Admin Web Portal
 
 ---
 
